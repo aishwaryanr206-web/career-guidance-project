@@ -2,6 +2,9 @@
 
 A creative, responsive MERN-stack Phase 1 internship project.
 
+## Live Website
+https://client-five-blush-73.vercel.app
+
 ## Features
 - Student registration and JWT login
 - Student profile creation/editing
